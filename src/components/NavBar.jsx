@@ -65,7 +65,7 @@ const NavBar = () => {
                </ul>
 
           <div className=" flex-col items-center  space-x-6 my-2 lg:hidden">
-          <button className=" py-2 my-2 xs:mx-16 ys:mx-0  px-3 bg-yellow-300 border border-white hover:bg-white hover:text-black">Sign-in</button>
+          <button className=" py-2 my-2 xs:mx-16 ys:mx-0  px-3 border border-white hover:bg-white hover:text-black">Sign-in</button>
           <button className=" py-2 px-3 bg-gradient-to-tr from-orange-500 to-red-800">Create an account</button>
           </div>
 
